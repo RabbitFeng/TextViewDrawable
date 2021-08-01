@@ -1,0 +1,3 @@
+include ':myview'
+include ':app'
+rootProject.name = "TextViewDrawable"
